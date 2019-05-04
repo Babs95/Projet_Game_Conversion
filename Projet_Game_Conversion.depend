@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1517601839 source:c:\users\babs beats\desktop\projet_game_conversion\joueur.c
+	<stdio.h>
+	<math.h>
+	<windows.h>
+
+1517579411 c:\users\babs beats\desktop\projet_game_conversion\joueur.h
+	<stdio.h>
+
+1517581779 source:c:\users\babs beats\desktop\projet_game_conversion\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Joueur.h"
+	<math.h>
+
+1517707969 source:c:\users\babs beats\desktop\babacar ndiaye-l2risp\projet_game_conversion\joueur.c
+	<stdio.h>
+	<math.h>
+	<windows.h>
+
+1517748957 source:c:\users\babs beats\desktop\babacar ndiaye-l2risp\projet_game_conversion\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Joueur.h"
+	<math.h>
+
+1517707828 c:\users\babs beats\desktop\babacar ndiaye-l2risp\projet_game_conversion\joueur.h
+	<stdio.h>
+
+1517707969 source:c:\users\babs beats\desktop\nouveau dossier\babacar ndiaye-l2risp\projet_game_conversion\joueur.c
+	<stdio.h>
+	<math.h>
+	<windows.h>
+
+1517697593 source:c:\users\babs beats\desktop\nouveau dossier\babacar ndiaye-l2risp\projet_game_conversion\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Joueur.h"
+	<math.h>
+
+1517707828 c:\users\babs beats\desktop\nouveau dossier\babacar ndiaye-l2risp\projet_game_conversion\joueur.h
+	<stdio.h>
+
+1517707969 source:c:\users\babs beats\desktop\cours\2eme annee\tp langage c 2eme annee\babacar ndiaye-l2risp\projet_game_conversion\joueur.c
+	<stdio.h>
+	<math.h>
+	<windows.h>
+
+1517748957 source:c:\users\babs beats\desktop\cours\2eme annee\tp langage c 2eme annee\babacar ndiaye-l2risp\projet_game_conversion\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Joueur.h"
+	<math.h>
+
+1517707828 c:\users\babs beats\desktop\cours\2eme annee\tp langage c 2eme annee\babacar ndiaye-l2risp\projet_game_conversion\joueur.h
+	<stdio.h>
+
